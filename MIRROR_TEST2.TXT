@@ -1,0 +1,1 @@
+Test if mirroring is happening in the oci registry the 2nd time too :)
